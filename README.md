@@ -1,6 +1,6 @@
 # Harbor Intake
 
-A local, working RFP intake and bid/no-bid preparation demo for the fictional Harbor Community Services. Original implementation; no third-party code, branding, private documents, or customer data is included.
+A local, working RFP intake and bid/no-bid preparation demo for the fictional Harbor Community Services. All records and documents in this demo are synthetic.
 
 ## Run
 
@@ -56,6 +56,3 @@ Limitations: no live OCR/model; no general PDF text extraction; no production lo
 
 See `PRODUCT.md` for acceptance scenarios, the state model, P0/parking lot, five discovery questions and a ten-RFP/two-reviewer shadow pilot plan. Buyer, price, demand and time savings are unvalidated hypotheses.
 
-## Reference
-
-This is an original implementation of an RFP intake and bid/no-bid preparation workflow using synthetic data. No external performance/adoption claims are reproduced. All funders, opportunities and organization facts here are synthetic.
